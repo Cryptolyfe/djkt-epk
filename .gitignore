@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+.env
+.vercelaudio/*.mp3
+audio/*.mp3
+audio/*.mp3
