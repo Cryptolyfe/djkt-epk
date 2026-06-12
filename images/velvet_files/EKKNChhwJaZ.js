@@ -1,5 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("CrisisBookmarkRootQuery_facebookRelayOperation",[],(function(t,n,r,o,a,i){a.exports="28024519950481915"}),null);
-__d("CrisisBookmarkRootQuery$Parameters",["CrisisBookmarkRootQuery_facebookRelayOperation"],(function(t,n,r,o,a,i){"use strict";var e={kind:"PreloadableConcreteRequest",params:{id:n("CrisisBookmarkRootQuery_facebookRelayOperation"),metadata:{},name:"CrisisBookmarkRootQuery",operationKind:"query",text:null}};a.exports=e}),null);
-__d("CrisisBookmarkRootEntryPoint.react",["CrisisBookmarkRootQuery$Parameters","JSResourceForInteraction","WebPixelRatio"],(function(t,n,r,o,a,i,l){"use strict";var e={getPreloadProps:function(){return{queries:{crisisBookmarkRootQueryReference:{parameters:n("CrisisBookmarkRootQuery$Parameters"),variables:{scale:o("WebPixelRatio").get()}}}}},root:r("JSResourceForInteraction")("CrisisBookmarkRoot.react").__setRef("CrisisBookmarkRootEntryPoint.react")};l.default=e}),98);
